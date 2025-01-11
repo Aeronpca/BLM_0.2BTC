@@ -1,3 +1,4 @@
+![Uploading puzzle.png…]()
 I've found it one the reddit [1,2]. Also it was mentioned in a few bitcointalk topics [3].
 There is the BTC address [4] filled with 0.2 BTC on 2020-05-10 11:01 and the picture (see "pictures" folder) where this address appears withing a "puzzle".
 Thats all the data for now - several variant of the same pictures acquired from several sources. Later i'll try to find some patterns and documents my findings here.
